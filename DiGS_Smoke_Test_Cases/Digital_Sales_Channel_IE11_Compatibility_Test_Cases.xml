@@ -1,0 +1,12 @@
+
+<suite name="Suite1" parallel="classes" thread-count="3">
+	<test  name="Default test">
+		<classes>
+		<class name="digital_Sales_Channel_IE11_Compatibility.Login_Edit_Home"/>
+	    <class name="digital_Sales_Channel_IE11_Compatibility.Reports"/>
+	   
+	</classes>
+	
+	</test>
+	 
+</suite>

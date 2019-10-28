@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" parallel="classes" thread-count="3">
+	<test  name="Default test">
+		<classes>
+		
+	    <class name="digs_Smoke_Test_Cases.Invalid_Credentials"/>
+	    
+	</classes>
+	
+	</test>
+	 
+</suite>

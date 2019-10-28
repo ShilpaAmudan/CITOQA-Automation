@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SmokeTestCase" >
+	<test  name="SmokeTestCase">
+		<classes>
+	     <class name="digs_Smoke_Test_Cases.Verify_Buttons_Local_Row_Filter"/>
+	   	</classes>
+	</test>
+</suite>

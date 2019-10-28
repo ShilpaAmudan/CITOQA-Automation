@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/ATUReporter_Selenium_testNG_5.5_BETA.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/poi-excelant-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/selenium-java-3.8.1.zip"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/xmlbeans-5.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/xmlbeans-xpath-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
